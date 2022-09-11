@@ -1,17 +1,11 @@
 .div_header {
-  /* background-image: var("../../assets/header_lc.svg"); */
-  height: 290px;
+  height: 100%;
   width: 50%;
-
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  /* background-color: #170F59; */
-  /* margin-top: 0;
-  z-index: -1;
-  align-items: center;
   display: flex;
-} */
-display: flex;
-/* background-color: white; */
+  justify-content: center;
+  margin-left: 50px;
+}
+
+.headerLC_img {
+  width: 100%;
 }
